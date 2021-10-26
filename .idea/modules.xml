@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A1/A1.iml" filepath="$PROJECT_DIR$/A1/A1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B1/B1.iml" filepath="$PROJECT_DIR$/B1/B1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/Tomcatceshi2/Tomcatceshi2.iml" filepath="$PROJECT_DIR$/javaweb/Tomcatceshi2/Tomcatceshi2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gongfang/gongfang.iml" filepath="$PROJECT_DIR$/gongfang/gongfang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/javaweb.iml" filepath="$PROJECT_DIR$/javaweb/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/lianxi/lianxi.iml" filepath="$PROJECT_DIR$/itheima/lianxi/lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/lianxi/maven002/maven002.iml" filepath="$PROJECT_DIR$/itheima/lianxi/maven002/maven002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B1/myjavalianxi/myjavalianxi.iml" filepath="$PROJECT_DIR$/B1/myjavalianxi/myjavalianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B1/myjavalianxi/src/myjavalianxi1.iml" filepath="$PROJECT_DIR$/B1/myjavalianxi/src/myjavalianxi1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/spring/src/ios/project.iml" filepath="$PROJECT_DIR$/itheima/spring/src/ios/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet01/servlet01.iml" filepath="$PROJECT_DIR$/javaweb/servlet01/servlet01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/servlet02/servlet02.iml" filepath="$PROJECT_DIR$/javaweb/servlet02/servlet02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gongfang/shoot/shoot.iml" filepath="$PROJECT_DIR$/gongfang/shoot/shoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/shubengzhishi/shubengzhishi.iml" filepath="$PROJECT_DIR$/itheima/shubengzhishi/shubengzhishi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/spring/spring.iml" filepath="$PROJECT_DIR$/itheima/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring01/spring01.iml" filepath="$PROJECT_DIR$/spring01/spring01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/tomcatceshi/tomcatceshi.iml" filepath="$PROJECT_DIR$/javaweb/tomcatceshi/tomcatceshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

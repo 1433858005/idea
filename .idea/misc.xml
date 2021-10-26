@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/A1/javaweb0" />
+    <file type="web" url="file://$PROJECT_DIR$/A1/javaweb01" />
+    <file type="web" url="file://$PROJECT_DIR$/gongfang" />
+    <file type="web" url="file://$PROJECT_DIR$/javaweb" />
+    <file type="web" url="file://$PROJECT_DIR$/spring01" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/A1/javaweb01/pom.xml" />
+        <option value="$PROJECT_DIR$/A1/javaweb0/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima/lianxi/mavena/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima/lianxi/maven2/pom.xml" />
+        <option value="$PROJECT_DIR$/001maven/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima/lianxi/maven002/pom.xml" />
+        <option value="$PROJECT_DIR$/B1/mavenweb001/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima/lianxi/web01/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima/lianxi/src/web01/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima/lianxi/web002/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima/lianxi/web003/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima/lianxi/web004/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima/lianxi/web005/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima/javaweb/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima/lianxi/javaweb/pom.xml" />
+        <option value="$PROJECT_DIR$/javaweb/pom.xml" />
+        <option value="$PROJECT_DIR$/javaweb/tomcatceshi/pom.xml" />
+        <option value="$PROJECT_DIR$/javaweb/Tomcatceshi2/pom.xml" />
+        <option value="$PROJECT_DIR$/javaweb/servlet01/pom.xml" />
+        <option value="$PROJECT_DIR$/javaweb/servlet02/pom.xml" />
+        <option value="$PROJECT_DIR$/gongfang/shoot/pom.xml" />
+        <option value="$PROJECT_DIR$/gongfang/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima/spring/src/ios/pom.xml" />
+        <option value="$PROJECT_DIR$/spring01/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

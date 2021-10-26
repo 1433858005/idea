@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Tomcatceshi2:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1095f6df-717f-4aa5-b294-751d9fd9ac13" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+        <option value="package-info" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="javaweb0/invalid/Web" />
+      <facet id="javaweb01/invalid/Web" />
+    </ignored-facets>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="1vZQrnThFXVrmKeSHPVJoA30pVo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;oracle" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="所有位置" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-17" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/itheima/lianxi/maven002/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/itheima/spring/src/ios/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.tomcatceshi2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\百度空间\BaiduNetdiskWorkspace\java\idea\gongfang\shoot\src\main\java\bin\com\cetc\shoot" />
+      <recent name="C:\百度空间\BaiduNetdiskWorkspace\java\idea\gongfang\shoot\src\main\java\com\cetc\shoot" />
+      <recent name="C:\百度空间\BaiduNetdiskWorkspace\java\idea\javaweb\Tomcatceshi2\target" />
+      <recent name="C:\百度空间\BaiduNetdiskWorkspace\java\idea\javaweb\servlet01\target" />
+      <recent name="C:\百度空间\BaiduNetdiskWorkspace\java\idea\itheima\lianxi\src\ceshi\bao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\百度空间\BaiduNetdiskWorkspace\java\idea\javaweb\Tomcatceshi2\src\heima.servlet" />
+      <recent name="C:\百度空间\BaiduNetdiskWorkspace\java\idea\itheima\lianxi\src\ceshi\bao" />
+      <recent name="C:\百度空间\BaiduNetdiskWorkspace\java\idea\itheima\lianxi\web001\src\test\scala" />
+      <recent name="C:\百度空间\BaiduNetdiskWorkspace\java\idea\itheima\lianxi\src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn jfree" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="CucumberJavaRunConfigurationType" />
+        <option value="JarApplication" />
+      </set>
+    </option>
+    <option name="openRunningConfigInTab" value="true" />
+  </component>
+  <component name="RunManager" selected="应用程序.c">
+    <configuration name="HELLOWORLD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JIANGPAN.HELLOWORLD" />
+      <module name="B1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JIANGPAN.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShootGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cetc.shoot.ShootGame" />
+      <module name="shoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cetc.shoot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JIANGPAN.c" />
+      <module name="B1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JIANGPAN.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userapp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="userapp" />
+      <module name="spring01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="servlet-api.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/javaweb/servlet01/target/servlet-api.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 10.0.8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.8" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="javaweb01:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/javaweb01_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="javaweb01:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="001" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" singleton="false">
+      <option name="adminPort" value="8005" />
+      <option name="contextPath" value="/javaweb" />
+      <option name="docBase" value="$PROJECT_DIR$/javaweb/src/main/webapp" />
+      <option name="envOptions" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.0.8" />
+          <option name="number" value="0" />
+          <option name="path" value="C:\百度空间\BaiduNetdiskWorkspace\软件\tomcat\apache-tomcat-10.0.8" />
+          <option name="version" value="10.0.8.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="adminPort" value="8005" />
+      <option name="contextPath" value="/Tomcatceshi2" />
+      <option name="docBase" value="$PROJECT_DIR$/javaweb/Tomcatceshi2/src/main/webapp" />
+      <option name="envOptions" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.0.8" />
+          <option name="number" value="0" />
+          <option name="path" value="C:\百度空间\BaiduNetdiskWorkspace\软件\tomcat\apache-tomcat-10.0.8" />
+          <option name="version" value="10.0.8.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="adminPort" value="8005" />
+      <option name="contextPath" value="/javaweb" />
+      <option name="docBase" value="http://localhost:8080/" />
+      <option name="envOptions" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.0.8" />
+          <option name="number" value="0" />
+          <option name="path" value="C:\百度空间\BaiduNetdiskWorkspace\软件\tomcat\apache-tomcat-10.0.8" />
+          <option name="version" value="10.0.8.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JAR 应用程序.servlet-api.jar" />
+      <item itemvalue="Smart Tomcat.001" />
+      <item itemvalue="Smart Tomcat.tomcat" />
+      <item itemvalue="Tomcat 服务器.Tomcat 10.0.8" />
+      <item itemvalue="应用程序.ShootGame" />
+      <item itemvalue="应用程序.HELLOWORLD" />
+      <item itemvalue="应用程序.c" />
+      <item itemvalue="应用程序.userapp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.c" />
+        <item itemvalue="应用程序.userapp" />
+        <item itemvalue="应用程序.HELLOWORLD" />
+        <item itemvalue="应用程序.ShootGame" />
+        <item itemvalue="JAR 应用程序.servlet-api.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="showFiles" value="false" />
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\14338\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1095f6df-717f-4aa5-b294-751d9fd9ac13" name="默认变更列表" comment="" />
+      <created>1626767335346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626767335346</updated>
+      <workItem from="1626767336936" duration="423000" />
+      <workItem from="1626768618766" duration="103000" />
+      <workItem from="1626769698393" duration="818000" />
+      <workItem from="1626848929783" duration="44000" />
+      <workItem from="1633768303042" duration="2777000" />
+      <workItem from="1633919557749" duration="313000" />
+      <workItem from="1634020039094" duration="1549000" />
+      <workItem from="1634023361125" duration="14619000" />
+      <workItem from="1634168970304" duration="343000" />
+      <workItem from="1634178189278" duration="3136000" />
+      <workItem from="1634181399794" duration="2000" />
+      <workItem from="1634181591493" duration="19000" />
+      <workItem from="1634183201421" duration="56000" />
+      <workItem from="1634191375913" duration="2390000" />
+      <workItem from="1634193927583" duration="4242000" />
+      <workItem from="1634263891151" duration="870000" />
+      <workItem from="1634265860451" duration="5997000" />
+      <workItem from="1634272284517" duration="630000" />
+      <workItem from="1634515493384" duration="457000" />
+      <workItem from="1634517209687" duration="12021000" />
+      <workItem from="1634537575546" duration="907000" />
+      <workItem from="1634538600921" duration="1384000" />
+      <workItem from="1634556979852" duration="597000" />
+      <workItem from="1634602937143" duration="12251000" />
+      <workItem from="1634774036509" duration="2979000" />
+      <workItem from="1634803269243" duration="1114000" />
+      <workItem from="1634868924000" duration="1955000" />
+      <workItem from="1635120608080" duration="12066000" />
+      <workItem from="1635164710293" duration="359000" />
+      <workItem from="1635165109385" duration="1016000" />
+      <workItem from="1635166243889" duration="1768000" />
+      <workItem from="1635168172627" duration="811000" />
+      <workItem from="1635209402515" duration="1460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaweb/servlet01/src/main/java/com/example/servlet01/HelloServlet.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

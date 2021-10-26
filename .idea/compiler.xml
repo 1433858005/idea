@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="javaweb" />
+        <module name="gongfang" />
+        <module name="project" />
+        <module name="shoot" />
+        <module name="spring01" />
+        <module name="tomcatceshi" />
+        <module name="maven002" />
+        <module name="Tomcatceshi2" />
+        <module name="servlet01" />
+        <module name="servlet02" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="001maven" target="15" />
+      <module name="gongfang" target="1.8" />
+      <module name="javaweb" target="1.5" />
+      <module name="javaweb0" target="1.8" />
+      <module name="javaweb01" target="1.8" />
+      <module name="maven002" target="15" />
+      <module name="maven2" target="15" />
+      <module name="mavena" target="15" />
+      <module name="mavenweb001" target="1.5" />
+      <module name="project" target="1.5" />
+      <module name="servlet01" target="1.8" />
+      <module name="servlet02" target="1.8" />
+      <module name="shoot" target="1.8" />
+      <module name="spring01" target="1.8" />
+      <module name="tomcatceshi" target="1.8" />
+      <module name="Tomcatceshi2" target="1.8" />
+      <module name="untitled1" target="1.5" />
+      <module name="web001" target="1.5" />
+      <module name="web002" target="15" />
+      <module name="web003" target="15" />
+      <module name="web004" target="15" />
+      <module name="web005" target="15" />
+      <module name="web01" target="1.5" />
+      <module name="web100" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

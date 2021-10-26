@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.itheima.edu.info.manager/com.itheima.edu.info.manager.iml" filepath="$PROJECT_DIR$/com.itheima.edu.info.manager/com.itheima.edu.info.manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima.iml" filepath="$PROJECT_DIR$/itheima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaoshiti/kaoshiti.iml" filepath="$PROJECT_DIR$/kaoshiti/kaoshiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianxi/lianxi.iml" filepath="$PROJECT_DIR$/lianxi/lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shubengzhishi/shubengzhishi.iml" filepath="$PROJECT_DIR$/shubengzhishi/shubengzhishi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
+    </modules>
+  </component>
+</project>
